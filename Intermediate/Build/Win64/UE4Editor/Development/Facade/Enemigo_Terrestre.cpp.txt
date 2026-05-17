@@ -1,0 +1,3 @@
+C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\Definitions.Facade.h
+C:\Users\2026\Documents\Unreal Projects\Facade\Source\Facade\Enemigo_Terrestre.h
+C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Inc\Facade\Enemigo_Terrestre.generated.h

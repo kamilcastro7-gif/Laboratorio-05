@@ -1,0 +1,15 @@
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vshost.*
+*.suo
+*.userosscmisc
+*.umap
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/

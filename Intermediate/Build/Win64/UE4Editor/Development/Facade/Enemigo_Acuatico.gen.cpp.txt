@@ -1,0 +1,5 @@
+C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\Definitions.Facade.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\2026\Documents\Unreal Projects\Facade\Source\Facade/Enemigo_Acuatico.h
+C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Inc\Facade\Enemigo_Acuatico.generated.h

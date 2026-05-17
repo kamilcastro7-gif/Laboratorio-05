@@ -1,0 +1,11 @@
+﻿  Building FacadeEditor...
+  Using Visual Studio 2022 14.44.35223 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] FacadeGAME.cpp
+    [2/4] UE4Editor-Facade-0040.lib
+       Creando biblioteca C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\UE4Editor-Facade-0040.lib y objeto C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\UE4Editor-Facade-0040.exp
+    [3/4] UE4Editor-Facade-0040.dll
+       Creando biblioteca C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\UE4Editor-Facade-0040.suppressed.lib y objeto C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\UE4Editor-Facade-0040.suppressed.exp
+    [4/4] FacadeEditor.target
+  Total time in Parallel executor: 1,05 seconds
+  Total execution time: 1,62 seconds

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Facade",
+			"Path": "C:\\Users\\2026\\Documents\\Unreal Projects\\Facade\\Source\\Facade.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FacadeEditor",
+			"Path": "C:\\Users\\2026\\Documents\\Unreal Projects\\Facade\\Source\\FacadeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

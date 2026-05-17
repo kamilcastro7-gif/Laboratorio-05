@@ -1,0 +1,11 @@
+C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\Definitions.Facade.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\2026\Documents\Unreal Projects\Facade\Source\Facade/FacadeGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\2026\Documents\Unreal Projects\Facade\Source\Facade\FacadeGAME.h
+C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Inc\Facade\FacadeGAME.generated.h
+C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Inc\Facade\FacadeGameMode.generated.h

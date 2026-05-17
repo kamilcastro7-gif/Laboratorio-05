@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Facade-0029.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\FacadeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\Enemigo_Acuatico.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\Enemigo_Aereo.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\Enemigo_Terrestre.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\Facade.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\FacadeGameMode.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\FacadePawn.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\FacadeProjectile.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\Enemigo_Acuatico.gen.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\Enemigo_Aereo.gen.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\Enemigo_Terrestre.gen.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\Facade.init.gen.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\FacadeGameMode.gen.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\FacadePawn.gen.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\FacadeProjectile.gen.cpp.obj"
+"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\Default.rc2.res"
+/OUT:"C:\Users\2026\Documents\Unreal Projects\Facade\Intermediate\Build\Win64\UE4Editor\Development\Facade\UE4Editor-Facade-0029.lib"
